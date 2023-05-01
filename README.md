@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AKHIL PANDEY</h1>
 <h3 align="center">A passionate Full-Stack developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476dk8u8u2558lmv1hu7rlaxfhm2705hd1mdc75dpj&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thechieff&label=Profile%20views&color=0e75b6&style=flat" alt="thechieff" /> </p>
 
