@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thechieff&label=Profile%20views&color=0e75b6&style=flat" alt="thechieff" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thechieff" alt="thechieff" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/thechieff_" target="blank"><img src="https://img.shields.io/twitter/follow/thechieff_?logo=twitter&style=for-the-badge" alt="thechieff_" /></a> </p>
 
