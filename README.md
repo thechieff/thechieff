@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thechieff&&show_icons=true&theme=dark" alt="thechieff" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thechieff&show_icons=true&locale=en" alt="thechieff" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechieff&theme=radical&hide_border=false&include_all_commits=true&count_private=true&lay" alt="thechieff" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thechieff&" alt="thechieff" /></p>
 
